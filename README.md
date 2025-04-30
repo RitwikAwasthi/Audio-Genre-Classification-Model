@@ -8,7 +8,7 @@ Research paper and presentaion deck provided in "documents" directory.
 
 ## Requirements
 
-GTZAN data not provided. XGboost uses wav file and others use .au files. Update the path in the code to point correctly.
+GTZAN data not provided. XGboost dataset generator uses .wav file and others use .au files. Update the path in the code to point correctly.
 
 ## Code
 
